@@ -37,6 +37,19 @@ Evaluate portfolio allocation strategies under uncertainty and recommend an opti
 
 The **Balanced portfolio** was dominated, exhibiting higher downside risk than the **Aggressive portfolio** while delivering lower expected returns.
 
+## Visualizations
+
+### Monte Carlo Portfolio Paths
+![Monte Carlo Simulation](reports/charts/simulated_paths.png)
+
+### Portfolio Value Distribution with VaR & CVaR
+![VaR CVaR Distribution](reports/charts/var_cvar_chart.png)
+
+### Drawdown Analysis
+![Drawdown Analysis](reports/charts/drawdown_chart.png)
+
+### Risk vs Return Tradeoff
+![Allocation Frontier](reports/charts/allocation_frontier.png)
 ## ✅ Recommendation
 
 The **Aggressive portfolio** provided the strongest risk-return tradeoff, maximizing expected value without proportionally increasing downside risk.
