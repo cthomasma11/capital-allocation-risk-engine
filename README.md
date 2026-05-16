@@ -57,7 +57,7 @@ The **Aggressive portfolio** provided the strongest risk-return tradeoff, maximi
 ## 📁 Project Structure
 
 ```text
-capital-allocation-risk-engine/
+capital-allocation-risk-intelligence-engine/
 ├── README.md
 ├── requirements.txt
 ├── notebooks/
